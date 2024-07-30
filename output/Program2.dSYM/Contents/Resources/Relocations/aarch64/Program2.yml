@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/aryananand/Desktop/daa lab/output/Program2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _merge, symObjAddr: 0x0, symBinAddr: 0x100003AD8, symSize: 0x24C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _merge, symObjAddr: 0x0, symBinAddr: 0x100003AD8, symSize: 0x24C }
+  - { offsetInCU: 0xC7, offset: 0xC7, size: 0x8, addend: 0x0, symName: _mergesort, symObjAddr: 0x24C, symBinAddr: 0x100003D24, symSize: 0x90 }
+  - { offsetInCU: 0x115, offset: 0x115, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x2DC, symBinAddr: 0x100003DB4, symSize: 0x170 }
+...
